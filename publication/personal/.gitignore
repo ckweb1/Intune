@@ -1,0 +1,5 @@
+# Default runtime output from the Cloud PKI leaf revocation script.
+CloudPKI-Leaf-Revoke-*.csv
+CloudPKI-Leaf-Revoke-*.log
+
+# Exclude custom output paths separately; never commit customer operational data.
